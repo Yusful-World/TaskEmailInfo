@@ -18,6 +18,6 @@ This is a simple public API built with ASP.NET Core. It provides the following i
 - [Git](https://git-scm.com/)
 
 ### Set Up
-- clone repository 
+- clone repository (https://github.com/Yusful-World/TaskEmailInfo.git)
 - Open in Visual Studio
 - Run project locally
